@@ -8,6 +8,7 @@ public class ProyectoMenuApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ProyectoMenuApplication.class, args);
+        System.out.println("Inicializando proyecto");
     }
 
 }
